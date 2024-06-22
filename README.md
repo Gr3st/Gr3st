@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! 👋![Programowanie](https://img.icons8.com/color/48/000000/source-code.png)
 
 I am passionate about programming, a field I have been dedicated to learning for the past eight years. 
 

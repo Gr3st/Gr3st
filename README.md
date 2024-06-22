@@ -21,7 +21,7 @@ I am particularly interested in artificial intelligence and continuously seek op
 
 ### Databases:
 ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) **MySQL**
-![MariaDB]([https://img.icons8.com/color/48/000000/mariadb.png](https://img.icons8.com/color/48/000000/database-restore.png) **MariaDB**
+![MariaDB](https://img.icons8.com/color/48/000000/database-restore.png) **MariaDB**
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png) **Firebase**
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) **MongoDB**
 

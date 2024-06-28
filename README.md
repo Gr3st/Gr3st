@@ -12,6 +12,7 @@ I am particularly interested in artificial intelligence and continuously seek op
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
+![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) **Next.js**
 ![Responsive Web Design](https://img.icons8.com/color/48/000000/web.png) **Responsive Web Design**
 
 ### Backend:

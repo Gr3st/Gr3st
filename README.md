@@ -29,5 +29,6 @@ I am particularly interested in artificial intelligence and continuously seek op
 ### Supporting Tools:
 ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
 ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Azure**
+![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
 ![Figma](https://img.icons8.com/color/48/000000/figma.png) **Figma**
 

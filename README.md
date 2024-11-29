@@ -1,24 +1,14 @@
-# ![Programowanie](https://img.icons8.com/color/48/000000/source-code.png) Hi there! 
-
-I am passionate about programming, a field I have been dedicated to learning for the past eight years. 
-
-Currently, I am pursuing a degree in Psychology of Marketing and Advertising to broaden my knowledge and skills. 
-
-I am particularly interested in artificial intelligence and continuously seek opportunities to expand my expertise in this dynamic area.
-
 ## 🛠️ Tech Stack
 
 ### Frontend:
 ![React.js](https://img.icons8.com/color/48/000000/react-native.png) **React.js**
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) **JavaScript**
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) **TypeScript**
-![Next.js](https://img.icons8.com/color/48/000000/nextjs.png) **Next.js**
 ![Responsive Web Design](https://img.icons8.com/color/48/000000/web.png) **Responsive Web Design**
 
 ### Backend:
 ![PHP](https://img.icons8.com/officel/48/000000/php-logo.png) **PHP**
 ![Python](https://img.icons8.com/color/48/000000/python.png) **Python**
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) **Node.js**
 
 ### Databases:
 ![MySQL](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) **MySQL**
@@ -29,6 +19,5 @@ I am particularly interested in artificial intelligence and continuously seek op
 ### Supporting Tools:
 ![Git](https://img.icons8.com/color/48/000000/git.png) **Git**
 ![Azure](https://img.icons8.com/color/48/000000/azure-1.png) **Azure**
-![Docker](https://img.icons8.com/color/48/000000/docker.png) **Docker**
 ![Figma](https://img.icons8.com/color/48/000000/figma.png) **Figma**
 
